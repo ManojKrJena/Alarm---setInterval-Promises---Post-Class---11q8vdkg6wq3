@@ -1,4 +1,4 @@
-mport { IconButton, Paper, Typography } from "@mui/material";
+import { IconButton, Paper, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import { Edit, Delete } from "@mui/icons-material";
 import React from "react";
